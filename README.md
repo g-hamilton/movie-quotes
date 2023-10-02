@@ -15,6 +15,8 @@ A super simple movie quotes app, built following Ryan's brief.
 - Run `yarn start`
 - Choose your platform if you have an Android or iOS simulator/emulator running (press a or i in the terminal to auto install Expo Go on the virtual device and run the app), or follow the instructions in the terminal to scan the QR code and open with the Expo Go app on your physical device.
 
+Contact greghamilton1@gmail.com if you have any issues initialising and running the project in your local environment :)
+
 ## 📝 Greg's notes - Planning the project
 
 What are the challenges of meeting the early requirements?
